@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JAllara3
+- 👀 I’m interested in building fun and informative websites.
+- 🌱 I’m currently learning to build web apps using the PHP framework Laravel.
