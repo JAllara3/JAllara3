@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @JAllara3
-- 👀 I’m interested in building fun and informative websites.
-- 🌱 I’m currently learning to build web apps using the PHP framework Laravel.
+Welcome to my Github profile!
+I am a self driven developer seeking out ways to better improve my programming skills!
